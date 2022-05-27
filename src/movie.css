@@ -1,0 +1,20 @@
+.movie {
+    cursor: pointer;
+    width: 230px;
+}
+
+.movieImage {
+    width: 225px;
+}
+
+.type,
+.movieName,
+.movieYear {
+    font-size: 20px;
+    text-align: center;
+}
+
+.type,
+.movieYear {
+    font-size: 15px;
+}
